@@ -2,7 +2,7 @@
 
 ## Talentsoft autoclicker
 Open console (F12) and paste code:
-```
+```javascript
 setInterval(() => {
   var frame = document
     .getElementById("launch_wrapper_content").contentDocument
